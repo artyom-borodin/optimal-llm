@@ -1,0 +1,18 @@
+{
+  "name": "optimal-llm",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Optimal LLM - Pareto frontier & value ranker using Artificial Analysis and OpenRouter (all endpoints + flex)",
+  "scripts": {
+    "start": "node backend/server.mjs",
+    "build": "npm --prefix frontend run build",
+    "dev:frontend": "npm --prefix frontend run dev"
+  },
+  "engines": {
+    "node": ">=20.12.0"
+  },
+  "dependencies": {
+    "@hono/node-server": "^2.1.8",
+    "hono": "^4.13.18"
+  }
+}

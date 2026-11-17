@@ -1,0 +1,17 @@
+.chart-panel {
+  position: relative;
+}
+
+.chart-reset {
+  position: absolute;
+  top: var(--space-sm);
+  right: var(--space-md);
+  z-index: 5;
+  padding: var(--space-xs) var(--space-sm);
+}
+
+.chart-wrap {
+  position: relative;
+  height: var(--chart-h);
+  width: 100%;
+}
