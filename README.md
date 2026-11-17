@@ -2,6 +2,12 @@
 
 Ranks LLMs by Artificial Analysis (AA) Intelligence Index v5.0.1 and estimated task execution cost, calculated from OpenRouter provider pricing and AA token usage metrics, alongside endpoint uptime, speed, quantization, context window, and data retention & usage policies.
 
+## Screenshots
+
+![Pareto frontier overview and endpoint tooltip](screenshots/pareto-frontier.png)
+
+![Baseline comparison with superior quadrant highlighted](screenshots/baseline-comparison.png)
+
 ## Features
 
 - **Task Cost Profiles**:
